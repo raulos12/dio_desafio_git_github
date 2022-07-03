@@ -10,3 +10,5 @@ Projeto de um site utilizando Flexbox totalmente responsivo.
 
 ## Links Úteis
 [Sintaxe básica MarkDown](https://www.markdownguide.org/basic-syntax/)
+
+===========================================================================
