@@ -1,4 +1,4 @@
-# Desafio Git/GitHub da Dio
+# Desafios Bootcamp Dio
 Repositório criado para  desafios de projetos do Bootcamp Dio
 
 ===========================================================================
